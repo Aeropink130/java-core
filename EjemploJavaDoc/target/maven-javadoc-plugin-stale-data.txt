@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'13'
+-sourcepath
+'C:/Cursos/Java/EjemploJavaDoc/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Cursos/Java/EjemploJavaDoc/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'EjemploJavaDoc 1.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/13/docs/api' 'C:/Cursos/Java/EjemploJavaDoc/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'EjemploJavaDoc 1.0 API'
+com.aeropink.javadoc
+prueba
+C:\Cursos\Java\EjemploJavaDoc\src\main\java = 1682485222759
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\allclasses-index.html = 1682486419551
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\allpackages-index.html = 1682486419577
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\constant-values.html = 1682486419214
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\deprecated-list.html = 1682486419389
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\element-list = 1682486419089
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\help-doc.html = 1682486419597
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\index-all.html = 1682486419531
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\index.html = 1682486419411
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\member-search-index.js = 1682486419513
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\member-search-index.zip = 1682486419520
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\overview-summary.html = 1682486419585
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\overview-tree.html = 1682486419359
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\package-search-index.js = 1682486419460
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\package-search-index.zip = 1682486419495
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\script.js = 1682486419622
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\search.js = 1682486419640
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\stylesheet.css = 1682486419612
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\type-search-index.js = 1682486419500
+C:\Cursos\Java\EjemploJavaDoc\target\site\apidocs\type-search-index.zip = 1682486419507
